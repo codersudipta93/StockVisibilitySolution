@@ -1,0 +1,20 @@
+export const local_images = {
+  splash_logo: require('../assets/images/splash_logo.png'),
+  logo_circle: require('../assets/images/logo-circle.png'),
+  splash_circle: require('../assets/images/splash_logo_circle.png'),
+  bg: require('../assets/images/bg.png'),
+  loading: require('../assets/images/loading.png'),
+  placeholder: require('../assets/images/placeholder.png'),
+  footer: require('../assets/images/footer.png'),
+  fgrm: require('../assets/images/fgrm-icon.png'),
+  customer: require('../assets/images/customer.png'),
+  purchase: require('../assets/images/purchase.png'),
+  //dashboard_bg: require('../assets/images/dashboardbg.png'),
+  tata_logo: require('../assets/images/tatalogo.png'),
+  splashbg: require('../assets/images/splashbg.png'),
+  dashboard_bg: require('../assets/images/dashboardbg.png'),
+  homebg: require('../assets/images/homebg.png'),
+  chat: require('../assets/images/chat.png'),
+  settings: require('../assets/images/settings.png'),
+};
+
